@@ -1,5 +1,4 @@
 
-# CHECK COREY SCHAFER'S VIDEO ON EMAIL SCRIPT IF ANY DOUBT
 
 import os
 import smtplib
